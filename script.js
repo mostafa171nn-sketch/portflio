@@ -69,7 +69,7 @@ if (contactForm) {
     
     // Here you can add your form submission logic
     // For now, just show an alert
-    alert('شكراً لتواصلك ' + name + '! سأرد عليك قريباً.');
+    alert('thanks for contact😍' + name + '! will send you soon.');
     
     // Reset form
     contactForm.reset();
